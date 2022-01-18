@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HolaAndroid</string>
+    <string name="activity_main_tv_greeting">Hola Android</string>
+    <string name="activity_main_tv_resultado">Resultado</string>
+    <string name="activity_main_bt_action">Accion</string>
+    <string name="cambio_de_actividad">Cambio de actividad</string>
+    <string name="activity_result_bt_web">ver info web</string>
+    <string name="volver">Volver</string>
+    <string name="resultado">resultado</string>
+
+</resources>
